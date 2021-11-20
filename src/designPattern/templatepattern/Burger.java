@@ -2,7 +2,7 @@ package designPattern.templatepattern;
 
 // A Template Method Pattern contains a method that provides
 // the steps of the algorithm. It allows subclasses to override
-// some of the methods
+// some of the methods.
 
 public abstract class Burger {
 

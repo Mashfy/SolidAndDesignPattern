@@ -1,5 +1,8 @@
 package solid.liscovSubstitution.good;
 
+//Liskov Substitution Principle
+//This means that every subclass or derived class should be substitutable for their base or parent class.
+
 public class Main {
     public static void main(String[] args) {
 

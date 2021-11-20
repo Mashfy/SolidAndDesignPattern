@@ -1,6 +1,9 @@
 package solid.openClosed.bad;
 
-public class Main {
+//Open-Closed Principle
+//Objects or entities should be open for extension but closed for modification.
+
+        public class Main {
     public static void main(String[] args) {
         Car car = new Car();
         EventHandler eventHandler = new EventHandler(car);
