@@ -1,6 +1,6 @@
 package designPattern.templatepattern;
 
-public class BurgerMaker {
+public class Main {
 
     public static void main(String[] args){
 
